@@ -1,0 +1,17 @@
+.background {
+  background-image: linear-gradient(pink, white, lightgreen);
+  height: 100vh;
+  width: 100vw;
+  padding: 15px;
+  text-align: center;
+  margin: 15px;
+}
+
+.container {
+  padding: 30px;
+  margin: 30px;
+}
+
+.heading {
+  font-size: 70px;
+}
